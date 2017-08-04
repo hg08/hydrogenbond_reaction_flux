@@ -1,4 +1,6 @@
 # hydrogenbond_reaction_flux
+# Author: Gang Huang
+# 2017/08/04
 0. This function is used to calculate the rate of relaxation to equilibrium, ie. the reactive flux hydrogen bond (HB) correlation function
 k(t). The function -k(t) measures the average rate of change of HB population (initial set of hydrogen bonds) for the bond between a 
 tagged pair of molecules is broken at time t later.
